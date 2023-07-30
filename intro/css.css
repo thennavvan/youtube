@@ -1,0 +1,15 @@
+.para1{
+  font-family: Arial;
+  font-size: 15px;
+  color: white;
+  background-color: rgb(255, 56, 56);
+  padding-top: 18px;
+  padding-bottom: 18px;
+  text-align: center;
+}
+
+.underline:hover{
+  cursor: pointer;
+  text-decoration: underline;
+  color: white;
+}  
